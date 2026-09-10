@@ -1,3 +1,3 @@
 <?php
-echo "Hola Mundo";
+echo "Listado de pedidos - actualizado por Aprendiz 1";
 ?>
